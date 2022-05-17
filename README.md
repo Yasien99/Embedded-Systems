@@ -4,4 +4,4 @@
 | Activity | Details | Labs |
 | --- | --- | --- |
 | Chapter 1 | ARM architecture overview |None |
-| Chapter 2 |C programming basics:<br />- Hello World Program <br />- Basic types and operators <br />- Loops and flow control | Lab 1: <br /> - Practices on Operators <br /> Lab 2: <br />- Practices on loops and flow control.|
+| Chapter 2 |C programming basics:<br />- Hello World Program <br />- Basic types and operators <br />- Loops and flow control | [Lab 1](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%201): <br /> - Practices on Operators <br /> [Lab 2](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%202): <br />- Practices on loops and flow control.|
