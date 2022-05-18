@@ -12,3 +12,7 @@
 | Chapter 7 | Interfacing the serial protocols peripherals.<br /> - UART peripheral.<br /> - SSI peripheral<br /> - 12C peripheral |None |
 | Chapter 8 |Structures in C:<br />- Creation of structures type.<br />- Accessing structures elements.<br />- Creating a pointer to structure.<br />- Creating bit fields. |None |
 | Chapter 9 | Interfacing the Tiva C timers<br />- TivaC timers' capabilities.<br />- Creation of periodic events.<br />- Generation of PWM signals<br />- Capturing external events. |None |
+
+[_for lectures notes of the course_ ](https://github.com/badra022/Sw-for-Hw-Interfacing-stm32F4xx-based)
+
+
