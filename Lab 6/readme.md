@@ -1,4 +1,4 @@
-# Keypad
+# Interrupts
 
 This project is a simple application on interrupt.
 
