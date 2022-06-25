@@ -9,7 +9,7 @@
 | Chapter 4 | C functions and multisource programming:<br /> - Functions Definition, declaration andinvocation. <br /> - Functions execution from hardware perspective  <br /> - Scope and lifetime.|[Lab 4](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%204) <br /> - Writing code in multiplefiles <br /> - Writing basic functions for GPIO peripheral. <br /> - Interfacing seven segment display. |
 | Chapter 5 | ARM interrupt system: <br /> - NVIC features. <br /> - NVIC exception states. <br /> - NVIC vector table. <br /> - NVIC registers. |[Lab 5](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%205) <br /> - Interfacing Keypad and 7 segment to create a phone keypad.|
 | Chapter 6 | Arrays and pointers:<br />- 1D arrays<br />- 2D arrays<br />- Passing arrays to functions.<br />- Pointers in C.<br />- call by value and call by reference.<br />- Difference between arrays and pointers |[Lab 6](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%206)<br />- Deal with interrupts<br />|
-| Chapter 7 | Interfacing the serial protocols peripherals.<br /> - UART peripheral.<br /> - SSI peripheral<br /> - 12C peripheral |[lab 7](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%207) <br /> - Interfacing UART peripheral for serial data.|
+| Chapter 7 | Interfacing the serial protocols peripherals.<br /> - UART peripheral.<br /> - SPI peripheral<br /> - I2C peripheral |[lab 7](https://github.com/Yasien99/Embedded-Systems/tree/main/Lab%207) <br /> - Interfacing UART peripheral for serial data.|
 
 
 [_for lectures notes of the course_ ](https://github.com/badra022/Sw-for-Hw-Interfacing-stm32F4xx-based)
